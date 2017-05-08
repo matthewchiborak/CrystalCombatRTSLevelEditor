@@ -1,0 +1,18 @@
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.exe.config
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.exe
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.pdb
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.csprojResolveAssemblyReference.cache
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\HCIDrawingAssignment.Form1.resources
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.Properties.Resources.resources
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.csproj.GenerateResource.Cache
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.exe
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.pdb
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.exe.config
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.exe
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\StealthWrestleEditor.pdb
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.csprojResolveAssemblyReference.cache
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\HCIDrawingAssignment.Form1.resources
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.Properties.Resources.resources
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.csproj.GenerateResource.Cache
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.exe
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\StealthWrestleEditor.pdb

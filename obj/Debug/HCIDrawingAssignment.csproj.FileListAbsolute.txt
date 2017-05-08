@@ -1,0 +1,12 @@
+c:\users\chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\bin\Debug\HCIDrawingAssignment.exe.config
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.Form1.resources
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.Properties.Resources.resources
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.csproj.GenerateResource.Cache
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\bin\Debug\HCIDrawingAssignment.exe
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\bin\Debug\HCIDrawingAssignment.pdb
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.exe
+C:\Users\Chiborak\documents\visual studio 2015\Projects\HCIDrawingAssignment\HCIDrawingAssignment\obj\Debug\HCIDrawingAssignment.pdb
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\bin\Debug\HCIDrawingAssignment.exe.config
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\HCIDrawingAssignment.exe
+C:\Users\Chiborak\Documents\Visual Studio 2015\Projects\StealthWrestleEditor\StealthWrestleEditor\obj\Debug\HCIDrawingAssignment.pdb

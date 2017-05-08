@@ -1,0 +1,9 @@
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Release\StealthWrestleEditor.exe.config
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Release\StealthWrestleEditor.exe
+D:\StealthWrestleEditor\StealthWrestleEditor\bin\Release\StealthWrestleEditor.pdb
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\StealthWrestleEditor.csprojResolveAssemblyReference.cache
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\HCIDrawingAssignment.Form1.resources
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\StealthWrestleEditor.Properties.Resources.resources
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\StealthWrestleEditor.csproj.GenerateResource.Cache
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\StealthWrestleEditor.exe
+D:\StealthWrestleEditor\StealthWrestleEditor\obj\Release\StealthWrestleEditor.pdb
